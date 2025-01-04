@@ -1,8 +1,4 @@
-<style>
-    header {
-        display: none;
-    }
-</style>
+
 # madhavi mohan
 
 ## journal publications
